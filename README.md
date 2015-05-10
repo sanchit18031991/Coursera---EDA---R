@@ -1,3 +1,1 @@
-# Coursera---EDA---R
-Exploratory Data Analysis - Coursera
-4 Plots
+Assignment - 1 - Data Science - Exploratory data analysis.
